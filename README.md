@@ -5,7 +5,7 @@
     I am a Student of Technology in internet Systems<br>  
     Specialist in Computer Networks and IT Support Services<br>  
     Large user of free software and GNU / Linux distributions</h4><br><br>
-   </div> s
+   </div>
 
 ![](img/html.png) ![](img/css.png) ![](img/js.png) ![](img/php.png) ![](img/sql.png) ![](img/terminal.png) ![](img/gnulinux.png)
 </div>
