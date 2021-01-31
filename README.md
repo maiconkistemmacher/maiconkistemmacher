@@ -16,7 +16,7 @@
 <br>
 
 
-**```I’m currently learning HTML5, CSS3, JavaScript, PHP, Laravel, MySQL, PostgreSQL<br>```**
+**```I’m currently learning HTML5, CSS3, JavaScript, PHP, Laravel, MySQL, PostgreSQL<br>```**<br>
 **```I mainly seek to teach and learn web development projects in general```<br><br>
 How to reach me:**  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniele-oliveira-lucas-8a685683/)](https://www.linkedin.com/in/maiconkistemmacher/) [![Hotmail Badge](https://img.shields.io/badge/-Gmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:daniele_oli_lucas@hotmail.com)](mailto:maicon.kistemmacher@gmail.com)
