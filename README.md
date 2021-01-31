@@ -8,14 +8,12 @@
 </div> 
 <br>
 <br>
+<br>
 
 ![](img/html.png) ![](img/css.png) ![](img/js.png) ![](img/php.png) ![](img/sql.png) ![](img/terminal.png) ![](img/gnulinux.png)
 
 <br>
 <br>
-<br>
-
-
 **```I’m currently learning HTML5, CSS3, JavaScript, PHP, Laravel, MySQL, PostgreSQL<br>```**<br>
 **```I mainly seek to teach and learn web development projects in general```<br><br>
 How to reach me:**  
