@@ -6,7 +6,6 @@
     Specialist in Computer Networks and IT Support Services<br>  
     Large user of free software and GNU / Linux distributions</h4><br><br>
    </div> 
-   <br>
 <br>
 
 ![](img/html.png) ![](img/css.png) ![](img/js.png) ![](img/php.png) ![](img/sql.png) ![](img/1.png) ![](img/2.png)
