@@ -14,6 +14,7 @@
 
 <br>
 <br>
+
 **```I’m currently learning HTML5, CSS3, JavaScript, PHP, Laravel, MySQL, PostgreSQL<br>```**<br>
 **```I mainly seek to teach and learn web development projects in general```<br><br>
 How to reach me:**  
