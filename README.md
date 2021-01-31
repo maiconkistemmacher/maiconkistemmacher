@@ -12,4 +12,4 @@ Full Stack PHP Developer, HTML5, CSS3, JavaScript, Laravel, Angular, MySQL, Post
 Large user of free software and GNU / Linux distributions
 
 
-![](img/html.png) ![](img/css.png) ![](img/js.png) ![](img/php.png) ![](img/sql.png)
+![](img/html.png) ![](img/css.png) ![](img/js.png) ![](img/php.png) ![](img/laravel.png)![](img/angular.png)![](img/mysql.png) ![](img/pgsql.png) ![](img/debian.png)
