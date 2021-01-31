@@ -13,7 +13,3 @@ Large user of free software and GNU / Linux distributions
 
 
 ![](img/html.png) ![](img/css.png) ![](img/js.png) ![](img/php.png) ![](img/sql.png)
-
-
-
-![](img/eu.jpg)
