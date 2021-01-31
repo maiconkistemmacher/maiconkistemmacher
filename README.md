@@ -12,10 +12,6 @@
 <br>
 
 
- [comment]: <> ( <div align="right">
-<img  width="234px" src="https://github.com/maiconkistemmacher/maiconkistemmacher/blob/main/img/eu.jpg" />
-<br> 
-  </div>)
 
 
 - I’m currently learning HTML5, CSS3, JavaScript, PHP, Laravel, MySQL, PostgreSQL
