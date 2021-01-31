@@ -1,9 +1,9 @@
 ### **Hello, I am Maicon, welcome to my github**
 
-  <div align="center"><h1>
+  <div align="center"><h3>
     I am a Student of Technology in internet Systems<br>  
     Specialist in Computer Networks and IT Support Services<br>  
-    Large user of free software and GNU / Linux distributions</h1><br><br>
+    Large user of free software and GNU / Linux distributions</h3><br><br>
    </div> 
    <br>
 <br>
