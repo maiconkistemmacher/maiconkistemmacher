@@ -19,8 +19,12 @@
 
 <br>
 <br>
+
+
 How to reach me:**  
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniele-oliveira-lucas-8a685683/)](https://www.linkedin.com/in/maiconkistemmacher/) [![Hotmail Badge](https://img.shields.io/badge/-Gmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:daniele_oli_lucas@hotmail.com)](mailto:maicon.kistemmacher@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniele-oliveira-lucas-
+8a685683/)](https://www.linkedin.com/in/maiconkistemmacher/) [![Hotmail Badge](https://img.shields.io/badge/-Gmail-0078D4?style=flat-square&logo=microsoft-
+outlook&logoColor=white&link=mailto:daniele_oli_lucas@hotmail.com)](mailto:maicon.kistemmacher@gmail.com)
 <br>
 <br>
 
@@ -32,4 +36,5 @@ How to reach me:**
   <div align="center">
     <img width="434px" src="https://github-readme-stats.vercel.app/api?username=maiconkistemmacher&hide=contribs,prs" />
 
-  <img width="434px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconkistemmacher&langs_count=8)](https://github.com/maiconkistemmacher/sssgithub-readme-statsl" />
+  <img width="434px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconkistemmacher&langs_count=8)](https://github.com/maiconkistemmacher/sssgithub-
+  readme-statsl" />
