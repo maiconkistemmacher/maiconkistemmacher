@@ -4,16 +4,8 @@
 <div align="center"><h4>
     I am a Student of Technology in internet Systems<br>  
     Specialist in Computer Networks and IT Support Services<br>  
-<<<<<<< HEAD
     Large user of free software and GNU / Linux distributions</h4>
 </div> 
-=======
-    Large user of free software and GNU / Linux distributions</h4><br><br>
-   </div>
-
-![](img/html.png) ![](img/css.png) ![](img/js.png) ![](img/php.png) ![](img/sql.png) ![](img/terminal.png) ![](img/gnulinux.png)
-</div>
->>>>>>> fc0db85f54abcac0c471a075def37bca9c3f882f
 <br>
 <br>
 
