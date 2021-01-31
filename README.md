@@ -1,15 +1,33 @@
-### **Maicon Kistemmacher**
+### **Hello, I am Maicon, welcome to my github**
 
-
-
-
-
-Hello, I am Maicon, welcome to my github
-
-Student Technology in internet Systems  
+I am a Student of Technology in internet Systems  
 Specialist in Computer Networks and IT Support Services  
-Full Stack PHP Developer, HTML5, CSS3, JavaScript, Laravel, Angular, MySQL, PostgreSQL  
 Large user of free software and GNU / Linux distributions
 
 
 ![](img/html.png) ![](img/css.png) ![](img/js.png) ![](img/php.png) ![](img/sql.png)
+
+
+<!-- <br>
+<div align="center">
+<img  width="234px" src="https://raw.githubusercontent.com/joaopealves/joaopealves/master/git_documents/Yo.jpeg" /><br>
+Me :D<br> -->
+
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniele-oliveira-lucas-8a685683/)](https://www.linkedin.com/in/maiconkistemmacher/) [![Hotmail Badge](https://img.shields.io/badge/-Gmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:daniele_oli_lucas@hotmail.com)](mailto:maicon.kistemmacher@gmail.com)
+
+
+
+
+
+- I’m currently learning HTML5, CSS3, JavaScript, PHP, Laravel, MySQL, PostgreSQL.
+- I’m looking to collaborate on open source projects, learning and teaching.
+- I’m looking for help with PHP, Laravel and everything that revolves in this ecosystem.
+- How to reach me: LinkedIn and email
+<br>
+
+    <div align="center">
+     <img width="434px" src="https://github-readme-stats.vercel.app/api?username=maiconkistemmacher&hide=contribs,prs" />
+
+    <img width="434px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconkistemmacher&langs_count=8)](https://github.com/maiconkistemmacher/sssgithub-readme-statsl" />
