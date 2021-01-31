@@ -1,4 +1,6 @@
-![](img/eu.png)
+<div align="right">
+
+![](img/eu1.png)
 
 <div align="center"><h2>
   Hello, I am Maicon, welcome to my github</h2>
