@@ -8,11 +8,10 @@ Large user of free software and GNU / Linux distributions
 ![](img/html.png) ![](img/css.png) ![](img/js.png) ![](img/php.png) ![](img/sql.png) ![](img/1.png) ![](img/2.png)
 
 
-<!-- <br>
+<br>
 <div align="center">
-<img  width="234px" src="https://raw.githubusercontent.com/joaopealves/joaopealves/master/git_documents/Yo.jpeg" /><br>
-Me :D<br> -->
-
+<img  width="234px" src="https://github.com/maiconkistemmacher/maiconkistemmacher/blob/main/img/eu.jpg" />
+<br> 
 
 
 
