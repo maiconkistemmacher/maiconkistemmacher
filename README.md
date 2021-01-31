@@ -1,18 +1,20 @@
 ### **Hello, I am Maicon, welcome to my github**
 
-I am a Student of Technology in internet Systems  
-Specialist in Computer Networks and IT Support Services  
-Large user of free software and GNU / Linux distributions
-
+  <div align="center">
+    I am a Student of Technology in internet Systems<br>  
+    Specialist in Computer Networks and IT Support Services<br>  
+    Large user of free software and GNU / Linux distributions<br><br>
+   
 
 ![](img/html.png) ![](img/css.png) ![](img/js.png) ![](img/php.png) ![](img/sql.png) ![](img/1.png) ![](img/2.png)
-
-
+</div>
 <br>
-<div align="right">
+
+
+  <div align="right">
 <img  width="234px" src="https://github.com/maiconkistemmacher/maiconkistemmacher/blob/main/img/eu.jpg" />
 <br> 
-</div>
+  </div>
 
 
 
