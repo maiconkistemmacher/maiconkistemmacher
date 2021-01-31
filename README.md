@@ -13,6 +13,8 @@
 
 <br>
 <br>
+<br>
+
 
 **I’m currently learning HTML5, CSS3, JavaScript, PHP, Laravel, MySQL, PostgreSQL
 I’m looking to collaborate in daily learning experiences directed  to technologies
