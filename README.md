@@ -9,9 +9,10 @@ Large user of free software and GNU / Linux distributions
 
 
 <br>
-<div align="center">
+<div align="right">
 <img  width="234px" src="https://github.com/maiconkistemmacher/maiconkistemmacher/blob/main/img/eu.jpg" />
 <br> 
+</div>
 
 
 
