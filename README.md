@@ -6,20 +6,17 @@
   Hello, I am Maicon, welcome to my github</h2>
 <br>
 
-<a href="https://twitter.com/devmaira">
-  <img align="center" alt="Twitter" src="img/discord.png" />
+<a href="https://join.skype.com/invite/tLsBPap1Jd8d">
+  <img align="center" src="img/skype.png" />
 </a>
-<a href="https://twitter.com/devmaira">
-  <img align="center" alt="Twitter" src="img/skype.png" />
+<a href=mailto:maicon.kistemmacher@gmail.com>
+  <img align="center" src="img/gmail.png" />
 </a>
-<a href="https://twitter.com/devmaira">
-  <img align="center" alt="Twitter" src="img/gmail.png" />
+<a href="https://t.me/MaiconKistemmacher">
+  <img align="center" src="img/telegram.png" />
 </a>
-<a href="https://twitter.com/devmaira">
-  <img align="center" alt="Twitter" src="img/telegram.png" />
-</a>
-<a href="https://twitter.com/devmaira">
-  <img align="center" alt="Twitter" src="img/linkedin.png" />
+<a href="https://www.linkedin.com/in/maiconkistemmacher/">
+  <img align="center" src="img/linkedin.png" />
 </a>
 
 <div align="center"><h4>
@@ -32,11 +29,8 @@
 ![](img/html.png) ![](img/css.png) ![](img/js.png) ![](img/php.png) ![](img/sql.png) ![](img/terminal.png) ![](img/gnulinux.png)
 
 <br>
-<br>
 
 **```I’m currently learning HTML5, CSS3, JavaScript, PHP, Laravel, MySQL, PostgreSQL```**<br>
-**```I mainly seek to teach and learn web development projects in general```**
-
 <br>
 <br>
 
