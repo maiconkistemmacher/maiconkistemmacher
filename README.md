@@ -30,7 +30,7 @@
 **```I’m currently learning HTML5, CSS3, JavaScript, PHP, Laravel, MySQL, PostgreSQL```**<br>
 <br>
 
-  <div align="center">
-    <img width="434px" src="https://github-readme-stats.vercel.app/api?username=maiconkistemmacher&hide=contribs,prs" />
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=maiconkistemmacher&show_icons=true&theme=dark&count_private=true" alt="github stats" />'
 
-  <img width="434px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconkistemmacher&langs_count=8)](https://github.com/maiconkistemmacher/sssgithub-readme-statsl" />
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconkistemmacher&theme=dark" alt="top languages"/>
+
