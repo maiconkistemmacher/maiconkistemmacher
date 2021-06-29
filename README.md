@@ -2,7 +2,7 @@
 
 ![](img/eu.png)
 
-<h2>Hello, I am Maicon, welcome to my github</h2>
+<h2>I’m currently learning HTML5, CSS3, JavaScript, PHP, Laravel, MySQL, PostgreSQL</h2>
 <br>
 
 <a href="https://join.skype.com/invite/tLsBPap1Jd8d">
@@ -27,7 +27,7 @@
 ![](img/html.png) ![](img/css.png) ![](img/js.png) ![](img/php.png) ![](img/sql.png) ![](img/terminal.png) ![](img/gnulinux.png)
 <br>
 
-**```I’m currently learning HTML5, CSS3, JavaScript, PHP, Laravel, MySQL, PostgreSQL```**<br>
+
 <br>
 
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=maiconkistemmacher&show_icons=true&theme=dark&count_private=true" alt="github stats" />'
