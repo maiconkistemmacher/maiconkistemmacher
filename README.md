@@ -16,7 +16,8 @@
 </a>
 <br>
   
-<h4>I am a Student of Technology in internet Systems<br>  
+<h4>Full Stack Web Developer<br>
+    Graduated in Internet Systems Technology<br>  
     Specialist in Computer Networks and IT Support Services<br>  
     Large user of free software and GNU / Linux distributions</h4>
  <br>
