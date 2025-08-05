@@ -16,7 +16,7 @@
 </a>
 <br>
   
-<h4>Full Stack Web Developer<br>
+<h4>Full Stack Developer<br>
     Graduated in Internet Systems Technology<br>  
     Specialist in Computer Networks and IT Support Services<br>  
     Large user of free software and GNU / Linux distributions</h4>
